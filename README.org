@@ -2,3 +2,5 @@
 #+author: Brian Lester
 
 This is a light-weight example of Diffie-Hellman key exchange with some protections that make sure the choices of =g= and =n= are reasonable.
+
+This is obviously not intented for real world use.
